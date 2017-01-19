@@ -10,3 +10,7 @@ Apache 2.0
 ## Copyright
 
 Copyright Docker Inc Education Team 2014 <education@docker.com>
+
+## testing jenkins hooks
+
+add a line and see whether the link is built successfully.
